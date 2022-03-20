@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe0A1246723d2c1A5598b759f6Dd09769AaA4B596",
+  "SCAN_LINK": "https://polygonscan.com/address/0xe0a1246723d2c1a5598b759f6dd09769aaa4b596",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Island Yardie NFT",
+  "SYMBOL": "OIY",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/islandyardienft",
+  "SHOW_BACKGROUND": true
+}
